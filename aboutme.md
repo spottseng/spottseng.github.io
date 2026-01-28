@@ -5,9 +5,9 @@ subtitle: Hi, I'm Shelby
 cover-img: /assets/img/maroon_bells.jpg
 ---
 
-I’m a Senior Data Engineer at Apptegy, where I build data solutions using Python, dbt, and AWS. My journey into software engineering started unexpectedly in college, but I quickly discovered how much I enjoy turning ideas into practical, data-driven systems.
+I work in the data space, building systems that help turn ideas into useful, real-world solutions. What started as an unexpected interest during school quickly became something I genuinely enjoy — especially the mix of problem-solving and creativity involved.
 
-I’m now pursuing a Master’s in Data Science and love diving into side projects on GitHub. When I’m not coding, I’m probably on the tennis court, listening to music, reading, or hanging out with my Golden Retriever, Sulley.
+I like to stay curious through side projects and personal experimentation. Outside of tech, I enjoy staying active, listening to music, reading, and hanging out with my dog.
 
 <style>
   * {
