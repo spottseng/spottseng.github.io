@@ -23,7 +23,7 @@ navbar-links:
   About: "aboutme"
   Blog: "blog"
   Projects: "projects"
-  Resume: "resume"
+  # Resume: "resume"
   Contact: "contact" 
 
 ################
@@ -49,11 +49,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: "shelbypotts.connect@gmail.com"
+  # email: ""
   github: smpotts
-  linkedin: shelby-m-potts
+  # linkedin: "" 
   # spotify: yourname 
-  medium: shelbympotts
+  # medium: ""
 #  facebook: deanattali
 #  reddit: yourname
 #  twitter: yourname
