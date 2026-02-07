@@ -17,7 +17,7 @@ Lately I've spent some time exploring Amazon's Redshift Data API tool, and I hav
 I put together a simple tutorial on how you can use the Redshift Data API in Python. Boto3 is the Amazon SDK for Python and the [documentation]((https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/redshift-data.html#RedshiftDataAPIService.Client.execute_statement)) will undoubtedly be your friend. I find the docs very comprehensive, and the examples are great. I have also tried out the Redshift Data API with Ruby and the SDK [documentation]((https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/redshift-data.html#RedshiftDataAPIService.Client.execute_statement)) is also very good. 
 
 ### Setting up Redshift
-I created a Redshift instance in my AWS account and wrote a [data setup file](https://github.com/smpotts/data-api-explorer/blob/main/redshift_ddl/data_setup.sql), which includes some basic SQL statements to create a table in Redshift and load some test data into the table. Here's what the test data set looks like:
+I created a Redshift instance in my AWS account and wrote a [data setup file](https://github.com/spottseng/data-api-explorer/blob/main/redshift_ddl/data_setup.sql), which includes some basic SQL statements to create a table in Redshift and load some test data into the table. Here's what the test data set looks like:
 ```
 select *
 from demo.data_api_test;
