@@ -31,6 +31,16 @@ This project uses neural networks and dimensionality reduction (PCA) techniques 
 - Key Features: Compares baseline and PCA-enhanced neural networks, visualizes confusion matrices, and analyzes model accuracy and efficiency.
 
 ---
+## **NeuralFoundry – A Handcrafted Neural Network Engine**
+*A neural network built completely from scratch in Python to deeply understand the mechanics of forward propagation, backpropagation, and gradient descent.*
+
+This project was created purely for experimentation and learning — rebuilding a neural network from the ground up to understand what modern ML libraries abstract away.
+
+- Technologies: Python, NumPy
+Key Features: Builds a 2–3–1 neural network from scratch, manually implements forward and backpropagation with hand-derived gradients, trains over multiple epochs on randomly generated inputs
+GitHub: [View Repository](https://github.com/spottseng/NeuralFoundry)
+
+---
 
 ## **Student Performance Predictions using Machine Learning**
 *A project that analyzes data from a Portuguese school system, and creates machine learning models to predict student's performance.*  
